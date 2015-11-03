@@ -1,0 +1,23 @@
+{
+    "name": "raphaelz/lametric-php",
+    "description": "A PHP wrapper for accessing the LaMetric API.",
+    "license": "MIT",
+    "keywords": ["lametric", "api", "wrapper"],
+    "require": {
+        "php": ">=5.3.0"
+    },
+    "authors": [
+        {
+            "name": "Raphael Z.",
+            "email": "hello@raphaelz.com",
+            "homepage": "http://raphaelz.com",
+            "role": "Developer"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-0": {
+            "Lametric": "src/"
+        }
+    }
+}
