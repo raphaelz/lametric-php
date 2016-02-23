@@ -25,7 +25,7 @@ $ composer require raphaelz/lametric-php
 ```php
 use Lametric\Lametric;
 
-$lametric = new Lemetric(array(
+$lametric = new Lametric(array(
     'pushURL' => 'YOUR_PUSH_URL',
     'token' => 'YOUR_TOKEN',
 ));
@@ -47,7 +47,7 @@ $lametric->setIcon(95);
 ```
 
 **The icon number can be found in the icon gallery.**
-**You can also create your own icon, but create a note of the number when it is inserted in the gallery listed under My.**
+**You can also create your own icon, but create a note of the number when it is inserted in the gallery.
 
 
 
