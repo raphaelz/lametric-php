@@ -1,6 +1,6 @@
 # LaMetric PHP
 
-A PHP wrapper for creating push and pull applications with the LaMetric API.
+A PHP wrapper for creating push and poll applications with the LaMetric API.
 
 ## Requirements
 
